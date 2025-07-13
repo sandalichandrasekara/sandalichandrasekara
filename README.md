@@ -1,6 +1,6 @@
 Hey there, I’m Sandali Chandrasekara
 
-A DevOps Engineer who's in love with Cloud Engineering
+Currently on my DevOps journey!
 
 <!---
 SandaliChandrasekara/SandaliChandrasekara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
