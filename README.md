@@ -1,4 +1,4 @@
-# Hey, I'm Sandali Chandrasekara
+## Hey, I'm Sandali 
 
 Currently on my DevOps journey!
 
