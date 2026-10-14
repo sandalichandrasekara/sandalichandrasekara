@@ -1,6 +1,6 @@
 ## Hey, I'm Sandali 
 
-A little obsessed with making systems better ❤️  
+Becoming the engineer I've always wanted to be ❤️  
 `DevOps` | `Cloud` | `SRE` | `Platform Engineering`
 
 <p align="left">
