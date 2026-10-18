@@ -1,7 +1,6 @@
 ## Hey, I'm Sandali 
 
 Becoming the engineer I've always wanted to be ❤️  
-`DevOps` | `Cloud` | `SRE` | `Platform Engineering`
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sandalichandrasekara/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" /></a>
